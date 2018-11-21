@@ -1,5 +1,7 @@
 # ProjectWaranka
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6129785074d8495ebe9c2d6a2bacacc4)](https://app.codacy.com/app/WispCharD90/waranka2?utm_source=github.com&utm_medium=referral&utm_content=WispCharD90/waranka2&utm_campaign=Badge_Grade_Dashboard)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
 ## Development server
